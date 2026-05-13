@@ -6,7 +6,7 @@
 
 ---
 
-Feito por: Lucas Eduardo Correia
+Feito por: Yago Soares Costa
 
 ## 📱 Wireframes (Miro) — Visão Geral
 
